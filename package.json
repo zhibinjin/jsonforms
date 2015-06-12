@@ -1,0 +1,11 @@
+{
+  "name": "jsonforms",
+  "version": "0.1.0",
+  "description": "a library for generating forms with json schema v4",
+  "main": "jsonforms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jibin",
+  "license": "ISC"
+}
